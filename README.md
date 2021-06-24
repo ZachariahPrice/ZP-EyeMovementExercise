@@ -1,4 +1,4 @@
-# ZP-EyeMovementExercise
+# Zach Price - Eye Movement Exercise
 
 **Eye Movement Exercise**
 
